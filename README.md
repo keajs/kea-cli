@@ -5,6 +5,7 @@ To get started with a new kea project, just type these commands:
 Using npx, the npm package runner
 ```
 npx kea-cli new my-project
+cd my-project
 npm install # or yarn
 npm start   # or yarn start
 ```
